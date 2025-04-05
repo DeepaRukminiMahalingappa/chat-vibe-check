@@ -1,0 +1,219 @@
+[
+  {
+    "date": "02/02/2025",
+    "time": "08:32 am",
+    "sender": "Rohit",
+    "message": "Morning team!",
+    "sentiment": 0
+  },
+  {
+    "date": "02/02/2025",
+    "time": "08:33 am",
+    "sender": "Ayesha",
+    "message": "Good morning 🌞",
+    "sentiment": 5
+  },
+  {
+    "date": "02/02/2025",
+    "time": "08:35 am",
+    "sender": "Manoj",
+    "message": "Morning losers 😏",
+    "sentiment": 1
+  },
+  {
+    "date": "02/02/2025",
+    "time": "08:36 am",
+    "sender": "Ayesha",
+    "message": "Not cool, Manoj.",
+    "sentiment": -1
+  },
+  {
+    "date": "02/02/2025",
+    "time": "08:38 am",
+    "sender": "Riya",
+    "message": "Please be respectful.",
+    "sentiment": 1
+  },
+  {
+    "date": "02/02/2025",
+    "time": "08:40 am",
+    "sender": "Manoj",
+    "message": "Relax, just joking. You all are too sensitive.",
+    "sentiment": 0
+  },
+  {
+    "date": "02/02/2025",
+    "time": "08:42 am",
+    "sender": "Rohit",
+    "message": "Joke or not, it sounds like bullying.",
+    "sentiment": 2
+  },
+  {
+    "date": "02/02/2025",
+    "time": "08:45 am",
+    "sender": "Ayesha",
+    "message": "Anyway, did you see the good news? Our project got approved! 🎉",
+    "sentiment": 8
+  },
+  {
+    "date": "02/02/2025",
+    "time": "08:46 am",
+    "sender": "Riya",
+    "message": "Omg seriously??? That’s amazing!!!",
+    "sentiment": 4
+  },
+  {
+    "date": "02/02/2025",
+    "time": "08:47 am",
+    "sender": "Manoj",
+    "message": "Wow! Did the boss finally listen to the girls? 😂",
+    "sentiment": 5
+  },
+  {
+    "date": "02/02/2025",
+    "time": "08:49 am",
+    "sender": "Ayesha",
+    "message": "That’s a very sexist comment, Manoj.",
+    "sentiment": -2
+  },
+  {
+    "date": "02/02/2025",
+    "time": "08:50 am",
+    "sender": "Riya",
+    "message": "We worked hard for this. Don’t minimize it.",
+    "sentiment": -1
+  },
+  {
+    "date": "02/02/2025",
+    "time": "08:52 am",
+    "sender": "Manoj",
+    "message": "Chill. It was a joke. Again.",
+    "sentiment": 2
+  },
+  {
+    "date": "02/02/2025",
+    "time": "08:54 am",
+    "sender": "Rohit",
+    "message": "Jokes should uplift, not hurt. Congrats Ayesha and Riya, you both killed it!",
+    "sentiment": 3
+  },
+  {
+    "date": "02/02/2025",
+    "time": "08:56 am",
+    "sender": "Ayesha",
+    "message": "Thanks Rohit 😊",
+    "sentiment": 5
+  },
+  {
+    "date": "02/02/2025",
+    "time": "08:57 am",
+    "sender": "Riya",
+    "message": "Really means a lot ❤️",
+    "sentiment": 0
+  },
+  {
+    "date": "02/02/2025",
+    "time": "09:00 am",
+    "sender": "Manoj",
+    "message": "Y’all too emotional. This is why guys are better at leadership.",
+    "sentiment": 3
+  },
+  {
+    "date": "02/02/2025",
+    "time": "09:01 am",
+    "sender": "Ayesha",
+    "message": "That’s just insulting now.",
+    "sentiment": -2
+  },
+  {
+    "date": "02/02/2025",
+    "time": "09:03 am",
+    "sender": "Riya",
+    "message": "Honestly Manoj, you should reflect on how you speak to people.",
+    "sentiment": 0
+  },
+  {
+    "date": "02/02/2025",
+    "time": "09:05 am",
+    "sender": "Manoj",
+    "message": "Whatever. I'm just being real.",
+    "sentiment": 0
+  },
+  {
+    "date": "02/02/2025",
+    "time": "09:06 am",
+    "sender": "Rohit",
+    "message": "Real doesn’t mean rude.",
+    "sentiment": -2
+  },
+  {
+    "date": "02/02/2025",
+    "time": "09:08 am",
+    "sender": "Ayesha",
+    "message": "Not sure I want to be in this group anymore 😞",
+    "sentiment": 0
+  },
+  {
+    "date": "02/02/2025",
+    "time": "09:10 am",
+    "sender": "Riya",
+    "message": "Same here. It's draining.",
+    "sentiment": 0
+  },
+  {
+    "date": "02/02/2025",
+    "time": "09:12 am",
+    "sender": "Rohit",
+    "message": "Don't let one person’s negativity ruin the vibe. You two are valued here.",
+    "sentiment": -4
+  },
+  {
+    "date": "02/02/2025",
+    "time": "09:14 am",
+    "sender": "Riya",
+    "message": "Thanks, Rohit. Appreciate that a lot.",
+    "sentiment": 4
+  },
+  {
+    "date": "02/02/2025",
+    "time": "09:15 am",
+    "sender": "Ayesha",
+    "message": "Yeah. Maybe I just need a break today.",
+    "sentiment": 1
+  },
+  {
+    "date": "02/02/2025",
+    "time": "09:16 am",
+    "sender": "Manoj",
+    "message": "You know what, sorry if I crossed a line.",
+    "sentiment": -1
+  },
+  {
+    "date": "02/02/2025",
+    "time": "09:17 am",
+    "sender": "Ayesha",
+    "message": "Thanks. That’s a start.",
+    "sentiment": 2
+  },
+  {
+    "date": "02/02/2025",
+    "time": "09:19 am",
+    "sender": "Riya",
+    "message": "Let’s all move forward. We have something to celebrate today 🎊",
+    "sentiment": 6
+  },
+  {
+    "date": "02/02/2025",
+    "time": "09:20 am",
+    "sender": "Rohit",
+    "message": "Team lunch on me this Friday? 🥳",
+    "sentiment": 0
+  },
+  {
+    "date": "02/02/2025",
+    "time": "09:21 am",
+    "sender": "Everyone",
+    "message": "Yesss!!",
+    "sentiment": 0
+  }
+]
